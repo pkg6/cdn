@@ -2,7 +2,13 @@
 
 ## 默认配置
 
+~~~
+https://raw.githubusercontent.com/pkg6/cdn/main/config/nginx/nginx.conf
+~~~
+
+openai配置
 
 ~~~
-https://cdn.jsdelivr.net/gh/pkg6/cdn@main/config/nginx/nginx.conf
+https://raw.githubusercontent.com/pkg6/cdn/main/config/nginx/openai.conf
 ~~~
+
